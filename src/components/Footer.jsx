@@ -25,7 +25,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-4">
               <motion.a
-                href="https://github.com/adityashiralkar"
+                href="https://github.com/Aditya-245"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-neutral-800 hover:bg-primary-600/20 hover:text-primary-400 transition-colors"

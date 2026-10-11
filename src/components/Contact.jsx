@@ -22,8 +22,8 @@ const contactInfo = [
   },
   {
     label: 'GitHub',
-    value: 'github.com/adityashiralkar',
-    href: 'https://github.com/adityashiralkar',
+    value: 'github.com/Aditya-245',
+    href: 'https://github.com/Aditya-245',
     icon: GithubIcon,
     color: 'text-neutral-600',
     bgColor: 'bg-neutral-50',

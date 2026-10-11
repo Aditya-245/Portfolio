@@ -113,7 +113,7 @@ export default function Hero() {
               className="flex items-center gap-6 mt-10"
             >
               <motion.a
-                href="https://github.com/adityashiralkar"
+                href="https://github.com/Aditya-245"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-400 hover:text-primary-600 transition-colors p-2 rounded-full hover:bg-primary-50"
