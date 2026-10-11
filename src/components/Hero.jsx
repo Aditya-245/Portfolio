@@ -122,7 +122,7 @@ export default function Hero() {
                 <GithubIcon size={20} />
               </motion.a>
               <motion.a
-                href="https://linkedin.com/in/adityashiralkar"
+                href="https://www.linkedin.com/in/aditya-shiralkar-b75a1833b"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-400 hover:text-primary-600 transition-colors p-2 rounded-full hover:bg-primary-50"

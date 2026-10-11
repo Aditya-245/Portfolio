@@ -34,7 +34,7 @@ export default function Footer() {
                 <GithubIcon size={20} />
               </motion.a>
               <motion.a
-                href="https://linkedin.com/in/adityashiralkar"
+                href="https://www.linkedin.com/in/aditya-shiralkar-b75a1833b"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-neutral-800 hover:bg-primary-600/20 hover:text-primary-400 transition-colors"
@@ -43,7 +43,7 @@ export default function Footer() {
                 <LinkedinIcon size={20} />
               </motion.a>
               <motion.a
-                href="https://twitter.com/adityashiralkar"
+                href="https://x.com/Aditya_2456"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-neutral-800 hover:bg-primary-600/20 hover:text-primary-400 transition-colors"
