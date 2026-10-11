@@ -113,20 +113,7 @@ export default function Footer() {
             >
               © {currentYear} Aditya Shiralkar. All rights reserved.
             </motion.p>
-            <motion.div
-              initial={{ opacity: 0 }}
-              whileInView={{ opacity: 1 }}
-              viewport={{ once: true }}
-              className="flex items-center gap-2 text-neutral-500 text-sm"
-            >
-              Built with
-              <Code className="w-4 h-4" />
-              React
-              <Heart className="w-4 h-4 text-red-500" />
-              Vite
-              <Heart className="w-4 h-4 text-red-500" />
-              TailwindCSS
-            </motion.div>
+
           </div>
         </div>
       </div>
