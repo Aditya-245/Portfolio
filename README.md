@@ -1,6 +1,6 @@
 # Portfolio - Aditya Shiralkar
 
-A modern, responsive personal portfolio website built with React, Vite, and Tailwind CSS.
+A modern, responsive personal portfolio website.
 
 ## Tech Stack
 
